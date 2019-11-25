@@ -5,6 +5,8 @@ This is an official implementation of "Correlated Siamese Change Detection Netwo
     <img src='https://drive.google.com/uc?export=view&id=1g0oPp5Kw4chnQ_FSyxc2TNdnNdlz9ZD0' width=95%/></a>
 </p>
 
+http://www.vision.is.tohoku.ac.jp/us/research/4d_city_modeling/pano_cd_dataset/
+
 ## Environments
 This code was developed and tested with Python 3.6.8 and PyTorch 1.0 and CUDA 9.2.
 * GCC
